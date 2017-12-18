@@ -3,10 +3,10 @@ In order to simplify the sharing and understanding of scripts, let’s keep to a
 -	Name repository in plain English. Let us know what the scripts do, briefly.
 -	Always initiate repositories with README file and explain purpose of scripts there.
 -	If you scripts require a specific directory structure, please mimic that in the organization repository.
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 If you are adding to the ‘Land of Misfit Scripts’ repository, special rules apply:
 1.	Click ‘Upload files’ and make a new directory for your scripts by saving the directory name followed by  a ‘/’ … Github will know what to do with that
 2.	In the new directory, upload your files with the appropriate file structure to ensure the reproducible examples work for others
