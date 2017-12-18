@@ -19,7 +19,7 @@ If you are adding to the ‘Land of Misfit Scripts’ repository, special rules 
 <br>
 In case you are not familiar with GitHub, here are some helpful tips to get you started with git for version control:<br>
 -	Read article https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945047/ <br>
--	Set up github locally and start using it if you aren’t already:<br>
+-	Set up github locally and start using it if you aren’t already:
      -	Good instructions: http://r-pkgs.had.co.nz/git.html<br>
      -	Great instructions, but maybe more than you want to know: http://happygitwithr.com/ <br>
 -	Commit often<br>
