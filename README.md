@@ -7,7 +7,7 @@ In order to simplify the sharing and understanding of scripts, let’s keep to a
 <br>
 
 If you are adding to the ‘Land of Misfit Scripts’ repository, special rules apply:<br>
-1.	Click ‘Upload files’ and make a new directory for your scripts by saving the directory name followed by  a ‘/’ … Github will know what to do with that<br>
+1.	Click ‘Create new file’ and make a new directory for your scripts by saving the directory name followed by  a ‘/’ … Github will know what to do with that<br>
 2.	In the new directory, upload your files with the appropriate file structure to ensure the reproducible examples work for others<br>
 3.	Manually add a README.md file to explain the purpose of the scripts.<br>
    -	In the directory -> Upload files
